@@ -1,1 +1,1 @@
-Trabalho em grupo sobre SOLID
+Trabalho em grupo sobre SOLID.
