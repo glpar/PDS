@@ -1,1 +1,1 @@
-Trabalhos em grupo sobre GRASP
+Trabalho em grupo sobre GRASP
