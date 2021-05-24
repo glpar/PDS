@@ -1,0 +1,1 @@
+A classe zoológico é responsável somente pelo caixa do zoológico. Toda a parte de gerenciamento e de lógica de pagamento estão em classes específicas que tratam disso.

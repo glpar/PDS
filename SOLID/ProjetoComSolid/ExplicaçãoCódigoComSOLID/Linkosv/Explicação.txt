@@ -1,0 +1,1 @@
+Aqui aplicamos Linkosv. As interfaces/classes que herdam das classes pai conseguem substitui-las sem causar nenhum tipo de perda.

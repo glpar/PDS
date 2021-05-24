@@ -1,0 +1,1 @@
+Aplicamos inversão de Dependencia. Fizemos com que a classe GerenciadorSecoes dependessem da abstração que a interface Secao provém. Se, no lugar da interface seção, fosse uma Classe, faria com que o módulo de mais alto nível fosse dependente direto de um módulo de nivel mais baixo, fazendo com que houvesse um alto acoplamento.

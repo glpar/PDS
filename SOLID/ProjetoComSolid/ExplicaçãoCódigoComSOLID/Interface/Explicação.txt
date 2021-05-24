@@ -1,0 +1,1 @@
+Criamos uma interface bem genérica, que abragisse todos daquele grupo. Para características mais específicas, como voar e chocar, criamos interfaces que extendiam da interface mais genérica, implementando somente a parte específica.

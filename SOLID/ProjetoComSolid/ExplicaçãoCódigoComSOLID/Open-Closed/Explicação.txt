@@ -1,0 +1,1 @@
+Aplicamos o conceito de Open-closed. A interface pagamento está aberta para extensão mas fechada para modificação. Caso haja alguma nova forma de pagamento, a mesma deverá extender a interface Pagamento. O mesmo vale para a interface de Seção; Caso haja alguma nova sessão, deverá extender a interface seção.
